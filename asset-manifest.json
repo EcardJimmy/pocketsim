@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "./static/css/main.79a8f2b7.chunk.css",
-    "main.js": "./static/js/main.a1061eb2.chunk.js",
+    "main.js": "./static/js/main.fa9e54ab.chunk.js",
     "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
-    "static/js/2.2cc6cc61.chunk.js": "./static/js/2.2cc6cc61.chunk.js",
+    "static/js/2.7dc89366.chunk.js": "./static/js/2.7dc89366.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.faa379343082fb476cca529d7067399c.js": "./precache-manifest.faa379343082fb476cca529d7067399c.js",
+    "precache-manifest.ba570b3adba8c126bc8d6d4cfb51c393.js": "./precache-manifest.ba570b3adba8c126bc8d6d4cfb51c393.js",
     "service-worker.js": "./service-worker.js",
     "static/media/pocketnc.png": "./static/media/pocketnc.2eac3182.png"
   }
