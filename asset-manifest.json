@@ -1,12 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.79a8f2b7.chunk.css",
-    "main.js": "./static/js/main.fa9e54ab.chunk.js",
-    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
-    "static/js/2.7dc89366.chunk.js": "./static/js/2.7dc89366.chunk.js",
+    "main.js": "./static/js/main.47de79cd.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.c267b696.js",
+    "static/js/2.f55fe824.chunk.js": "./static/js/2.f55fe824.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.ba570b3adba8c126bc8d6d4cfb51c393.js": "./precache-manifest.ba570b3adba8c126bc8d6d4cfb51c393.js",
+    "precache-manifest.1a563f4eb0c64ac672c48350f2ac997c.js": "./precache-manifest.1a563f4eb0c64ac672c48350f2ac997c.js",
     "service-worker.js": "./service-worker.js",
+    "static/js/2.f55fe824.chunk.js.LICENSE.txt": "./static/js/2.f55fe824.chunk.js.LICENSE.txt",
     "static/media/pocketnc.png": "./static/media/pocketnc.2eac3182.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c267b696.js",
+    "static/js/2.f55fe824.chunk.js",
+    "static/css/main.79a8f2b7.chunk.css",
+    "static/js/main.47de79cd.chunk.js"
+  ]
 }
