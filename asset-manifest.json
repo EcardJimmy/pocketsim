@@ -1,17 +1,21 @@
 {
   "files": {
     "main.css": "./static/css/main.257a762d.chunk.css",
-    "main.js": "./static/js/main.f4044c06.chunk.js",
+    "main.js": "./static/js/main.b6e65d02.chunk.js",
+    "main.js.map": "./static/js/main.b6e65d02.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.e9da8d73.js",
-    "static/js/2.242d40a2.chunk.js": "./static/js/2.242d40a2.chunk.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e9da8d73.js.map",
+    "static/js/2.fa08e5df.chunk.js": "./static/js/2.fa08e5df.chunk.js",
+    "static/js/2.fa08e5df.chunk.js.map": "./static/js/2.fa08e5df.chunk.js.map",
     "index.html": "./index.html",
-    "static/js/2.242d40a2.chunk.js.LICENSE.txt": "./static/js/2.242d40a2.chunk.js.LICENSE.txt",
+    "static/css/main.257a762d.chunk.css.map": "./static/css/main.257a762d.chunk.css.map",
+    "static/js/2.fa08e5df.chunk.js.LICENSE.txt": "./static/js/2.fa08e5df.chunk.js.LICENSE.txt",
     "static/media/pocketnc.de6b0d39.png": "./static/media/pocketnc.de6b0d39.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e9da8d73.js",
-    "static/js/2.242d40a2.chunk.js",
+    "static/js/2.fa08e5df.chunk.js",
     "static/css/main.257a762d.chunk.css",
-    "static/js/main.f4044c06.chunk.js"
+    "static/js/main.b6e65d02.chunk.js"
   ]
 }
